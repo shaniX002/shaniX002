@@ -23,10 +23,9 @@ I have deep experience in AI development, working on cutting-edge projects invol
 - 💼 For more projects, check my portfolio
   
  📫 Let's Connect
-- 🌍 Portfolio: [Your Portfolio Link]
+- 🌍 Portfolio: ....
 - 📩 Email: malikshanilhr09@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/hasnain-ali-abb7b7311/
-- 🐦 **Twitter/X:** [Your Twitter/X Handle]
 
-Feel free to explore my repositories and let's build something amazing together! 🚀
+Feel free to explore my repositories, and let's build something amazing together! 🚀
 
