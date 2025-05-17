@@ -23,7 +23,7 @@ I have deep experience in AI development, working on cutting-edge projects invol
 - 💼 For more projects, check my portfolio
   
  📫 Let's Connect
-- 🌍 Portfolio: ....
+- 🌍 Portfolio: https://shanix002.github.io/Hasnain-Malek-Portfolio.io/
 - 📩 Email: malikshanilhr09@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/hasnain-ali-abb7b7311/
 
