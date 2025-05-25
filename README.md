@@ -16,7 +16,7 @@ I have deep experience in AI development, working on cutting-edge projects invol
 - Other Tools: Git, GitHub, REST APIs, UI/UX Design
 
  📌 Featured Projects
-- ✈️ Online Flight Ticket Booking App** - A seamless booking experience using Flutter.
+- ✈️ Online Flight Ticket Booking App - A seamless booking experience using Flutter.
 - 🤖 AI Nexus+ - An AI-powered platform with a chatbot, image generator, and translator.
 - 🦠 COVID Tracker - A real-time COVID-19 tracking app.
 - 🛒 E-Commerce Website - Fully customized WordPress-based online store.
